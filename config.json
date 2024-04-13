@@ -1,4 +1,4 @@
 {
-    "Original Log File Path":"your/path/here.txt",
-    "Output Folder Path":"your/path/here"
+    "Original Log File Path" : "your/path/here/Client.txt",
+    "Output Folder Path" : "your/path/here"
 }
