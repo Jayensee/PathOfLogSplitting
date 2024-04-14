@@ -6,7 +6,9 @@ A very short script that splits the Path of Exile client chat log file into mult
 1. Change the paths in the config.json to the path of the original log and the path where you want to save the new logs
 2. Run the python file
 
-Windows for some reason uses backslashes by default in paths shown in the file explorer but in python those are used as escape characters, so you gotta change the backslashes in the path to frontslashes if you copy paste from the file explorer.
+Windows for some reason uses backslashes by default in paths shown in the file explorer but in python those are used as escape characters, so **you gotta change the backslashes in the path to frontslashes if you copy paste from the file explorer**.
+
+### Notes
 
 You need to have python installed to run python scripts. If you're on Linux or and older Mac then you almost certainly have it by default, on Windows you can find it in the app store (this is not the recommended installation if you intend to actually use python extensively, but for just running small scripts it should be fine).
 
